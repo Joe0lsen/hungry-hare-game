@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple game that I made to demonstrate scripting in Unity3D using C#. There are scripts for controlling the player, spawning obstacles, and game-over conditions.
+This is a simple game that I made to demonstrate scripting in Unity3D using C#. Because of the massive size of Unity projects, I have included my assets, including scripts, in this repository. There are scripts for controlling the player, spawning obstacles, and game-over conditions.
 
 Hungry Hare is a game about a rabbit looking for carrots while avoiding obstacles. Jump over haybales, and use them to help reach those tasty carrots. Avoid rabbit flytraps that want to make a meal out of you.
 
